@@ -2,7 +2,7 @@
 - 👀 I’m interested in electronics and code.
 - 🌱 I’m currently trying to reach more people for my project WardrobeLamps.
 - 💞️ I would love to colaborate on this project.
-- 📫 How to reach me on Instagram: ajvw04
+- 📫 I can be contacted via Instagram: ajvw04
 
 <!---
 SolderingSoldier/SolderingSoldier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
