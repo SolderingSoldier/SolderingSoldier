@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @SolderingSoldier, 17 years old student from Germany.
+- 👋 Hi, I’m @SolderingSoldier, 19 years old student from Germany.
 - 👀 I’m interested in electronics and code.
-- 🌱 I’m currently trying to reach more people for my project WardrobeLamps.
-- 💞️ I would love to colaborate on this project.
 - 📫 I can be contacted via Instagram: ajvw04
 
 <!---
